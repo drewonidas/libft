@@ -1,2 +1,2 @@
-# libft
-Recode of C's stdlib functions
+# ft_printf
+Recode of stdio's printf function for C
